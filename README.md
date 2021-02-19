@@ -6,7 +6,7 @@ This is a project which attempts to understand and visualise the IPL Auction 202
 
 All the data that I have scraped belongs to Cricbuzz. I have used Selenium to scrape data from cricbuzz.com
 The players who weren't called for the auction from the shortlist aren't included in the data list.
-
+[Cricbuzz] cricbuzz.com
 
 
 
