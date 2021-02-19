@@ -70,3 +70,5 @@ def price_function(df):
 df['Base_Price'] = base_price(df)
 df['Final_Price'] = final_price(df)
 df['Base_Price'], df['Final_Price'] = price_function(df)
+
+df.to_csv('cleaned_data.csv')

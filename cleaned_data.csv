@@ -1,0 +1,130 @@
+,Unnamed: 0,Name,Role,Status,Base_Price,Final_Price,Team
+0,0,Arjun Tendulkar,Bowling Allrounder,SOLD,20.0,20.0,MI
+1,1,Akash Singh,Bowler,SOLD,20.0,20.0,RR
+2,2,Pawan Negi,Bowling Allrounder,SOLD,50.0,50.0,KKR
+3,3,Venkatesh Iyer,Bowler,SOLD,20.0,20.0,KKR
+4,4,Hanuma Vihari,Batting Allrounder,UNSOLD,100.0,0,
+5,5,Jason Behrendorff,Bowler,UNSOLD,100.0,0,
+6,6,Gurkeerat Singh Mann,Batsman,UNSOLD,50.0,0,
+7,7,Ben Cutting,Bowling Allrounder,SOLD,75.0,75.0,KKR
+8,8,Rassie van der Dussen,Batsman,UNSOLD,50.0,0,
+9,9,Corey Anderson,Batting Allrounder,UNSOLD,75.0,0,
+10,10,Vishnu Solanki,WK-Batsman,UNSOLD,20.0,0,
+11,11,Hari Nishanth,Batsman,SOLD,20.0,20.0,CSK
+12,12,Harbhajan Singh,Bowler,SOLD,200.0,200.0,KKR
+13,13,Mujeeb Ur Rahman,Bowler,SOLD,150.0,150.0,SRH
+14,14,Sam Billings,WK-Batsman,SOLD,200.0,200.0,DC
+15,15,Kedar Jadhav,Batting Allrounder,SOLD,200.0,200.0,SRH
+16,16,Karun Nair,Batsman,SOLD,50.0,50.0,KKR
+17,17,Saurabh Kumar,Bowling Allrounder,SOLD,20.0,20.0,PBKS
+18,18,Pratyush Singh,Bowler,UNSOLD,20.0,0,
+19,19,Marco Jansen,Bowling Allrounder,SOLD,20.0,20.0,MI
+20,20,Tim David,Batsman,UNSOLD,20.0,0,
+21,21,Gerald Coetzee,Bowler,UNSOLD,20.0,0,
+22,22,Harsh Tyagi,Batting Allrounder,UNSOLD,20.0,0,
+23,23,Jack Wildermuth,Bowling Allrounder,UNSOLD,50.0,0,
+24,24,Bhagath Verma,Bowling Allrounder,SOLD,20.0,20.0,CSK
+25,25,Ajay Dev Goud,Bowler,UNSOLD,20.0,0,
+26,26,Yudhvir Singh,Bowler,SOLD,20.0,20.0,MI
+27,27,Chaitanya Bishnoi,Batting Allrounder,UNSOLD,20.0,0,
+28,28,George Linde,Batting Allrounder,UNSOLD,50.0,0,
+29,29,Isuru Udana,Bowling Allrounder,UNSOLD,50.0,0,
+30,30,Chris Green,Bowling Allrounder,UNSOLD,30.0,0,
+31,31,Reece Topley,Bowler,UNSOLD,50.0,0,
+32,32,Wayne Parnell,Bowling Allrounder,UNSOLD,50.0,0,
+33,33,James Neesham,Batting Allrounder,SOLD,50.0,50.0,MI
+34,34,Scott Kuggeleijn,Batting Allrounder,UNSOLD,50.0,0,
+35,35,Kuldip Yadav,Bowler,SOLD,20.0,20.0,RR
+36,36,Simarjeet Singh,Bowler,UNSOLD,20.0,0,
+37,37,Harishankar Reddy,Bowler,SOLD,20.0,20.0,CSK
+38,38,Josh Inglis,WK-Batsman,UNSOLD,20.0,0,
+39,39,Srikar Bharat,WK-Batsman,SOLD,20.0,20.0,RCB
+40,40,Suyash Prabhudessai,Batsman,SOLD,20.0,20.0,RCB
+41,41,Prerak Mankad,Batsman,UNSOLD,20.0,0,
+42,42,Tajinder Singh,Batting Allrounder,UNSOLD,20.0,0,
+43,43,Siddhesh Lad,Batsman,UNSOLD,20.0,0,
+44,44,Sean Abbott,Bowler,UNSOLD,50.0,0,
+45,45,Matthew Wade,WK-Batsman,UNSOLD,100.0,0,
+46,46,Ben McDermott,WK-Batsman,UNSOLD,50.0,0,
+47,47,Thisara Perera,Bowling Allrounder,UNSOLD,50.0,0,
+48,48,Liam Livingstone,Batsman,SOLD,75.0,75.0,RR
+49,49,Daniel Christian,Bowling Allrounder,SOLD,75.0,480.0,RCB
+50,50,Fabian Allen,Batting Allrounder,SOLD,75.0,75.0,PBKS
+51,51,G Periyaswamy,Bowler,UNSOLD,20.0,0,
+52,52,Ben Dwarshuis,Bowler,UNSOLD,30.0,0,
+53,53,Vaibhav Arora,Bowler,SOLD,20.0,20.0,KKR
+54,54,KL Shrijith,WK-Batsman,UNSOLD,20.0,0,
+55,55,Utkarsh Singh,Bowler,SOLD,20.0,20.0,PBKS
+56,56,Karan Sharma,Batting Allrounder,UNSOLD,20.0,0,
+57,57,Jalaj Saxena,Batting Allrounder,SOLD,30.0,30.0,PBKS
+58,58,Naveen-ul-Haq,Bowler,UNSOLD,50.0,0,
+59,59,Mitchell McClenaghan,Bowler,UNSOLD,50.0,0,
+60,60,Billy Stanlake,Bowler,UNSOLD,100.0,0,
+61,61,Mohit Sharma,Bowler,UNSOLD,50.0,0,
+62,62,Oshane Thomas,Bowler,UNSOLD,50.0,0,
+63,63,Varun Aaron,Bowler,UNSOLD,50.0,0,
+64,64,Moises Henriques,Batting Allrounder,SOLD,100.0,420.0,PBKS
+65,65,Marnus Labuschagne,Batting Allrounder,UNSOLD,100.0,0,
+66,66,Tom Curran,Bowling Allrounder,SOLD,150.0,525.0,DC
+67,67,Kyle Jamieson,Bowler,SOLD,75.0,1500.0,RCB
+68,68,Martin Guptill,Batsman,UNSOLD,50.0,0,
+69,69,Cheteshwar Pujara,Batsman,SOLD,50.0,50.0,CSK
+70,70,Darren Bravo,Batsman,UNSOLD,75.0,0,
+71,71,Devon Conway,Batsman,UNSOLD,50.0,0,
+72,72,Shaun Marsh,Batsman,UNSOLD,150.0,0,
+73,73,Rovman Powell,Batsman,UNSOLD,50.0,0,
+74,74,Tejas Baroka,Bowler,UNSOLD,20.0,0,
+75,75,Sudhesan Midhun,Bowler,UNSOLD,20.0,0,
+76,76,Sandeep Lamichhane,Bowler,UNSOLD,40.0,0,
+77,77,KC Cariappa,Bowler,SOLD,20.0,20.0,RR
+78,78,Lukman Meriwala,Bowler,SOLD,20.0,20.0,DC
+79,79,Jagadeesha Suchith,Bowler,SOLD,20.0,30.0,SRH
+80,80,Karanveer Singh,Bowler,UNSOLD,20.0,0,
+81,81,Manimaran Siddharth,Bowler,SOLD,20.0,20.0,DC
+82,82,Tushar Deshpande,Bowler,UNSOLD,20.0,0,
+83,83,Riley Meredith,Bowler,SOLD,40.0,800.0,PBKS
+84,84,Kuldeep Sen,Bowler,UNSOLD,20.0,0,
+85,85,Chetan Sakariya,Bowler,SOLD,20.0,120.0,RR
+86,86,Ankit Rajpoot,Bowler,UNSOLD,30.0,0,
+87,87,Mujtaba Yousuf,Bowling Allrounder,UNSOLD,20.0,0,
+88,88,Avi Barot,Batsman,UNSOLD,20.0,0,
+89,89,Mohammed Azharuddeen,WK-Batsman,SOLD,20.0,20.0,RCB
+90,90,Kedar Devdhar,WK-Batsman,UNSOLD,20.0,0,
+91,91,Sheldon Jackson,WK-Batsman,SOLD,20.0,20.0,KKR
+92,92,Vishnu Vinod,WK-Batsman,SOLD,20.0,20.0,DC
+93,93,Vivek Singh,Batsman,UNSOLD,20.0,0,
+94,94,Krishnappa Gowtham,Bowling Allrounder,SOLD,20.0,925.0,CSK
+95,95,Ayush Badoni,Bowling Allrounder,UNSOLD,20.0,0,
+96,96,Shahrukh Khan,Bowling Allrounder,SOLD,20.0,525.0,PBKS
+97,97,Ripal Patel,Bowler,SOLD,20.0,20.0,DC
+98,98,Atit Sheth,Bowler,UNSOLD,20.0,0,
+99,99,Himmat Singh,Batsman,UNSOLD,20.0,0,
+100,100,Rajat Patidar,Batsman,SOLD,20.0,20.0,RCB
+101,101,Gahlaut Rahul Singh,Batsman,UNSOLD,20.0,0,
+102,102,Sachin Baby,Batsman,SOLD,20.0,20.0,RCB
+103,103,Himanshu Rana,Batsman,UNSOLD,20.0,0,
+104,104,Mustafizur Rahman,Bowler,SOLD,100.0,100.0,RR
+105,105,Qais Ahmad,Bowler,UNSOLD,50.0,0,
+106,106,Piyush Chawla,Bowling Allrounder,SOLD,50.0,240.0,MI
+107,107,Ish Sodhi,Bowler,UNSOLD,50.0,0,
+108,108,Rahul Sharma,Bowler,UNSOLD,50.0,0,
+109,109,Adil Rashid,Bowler,UNSOLD,150.0,0,
+110,110,Sheldon Cottrell,Bowler,UNSOLD,100.0,0,
+111,111,Jhye Richardson,Bowling Allrounder,SOLD,150.0,1400.0,PBKS
+112,112,Umesh Yadav,Bowler,SOLD,100.0,100.0,DC
+113,113,Nathan Coulter-Nile,Bowler,SOLD,150.0,500.0,MI
+114,114,Adam Milne,Bowler,SOLD,50.0,320.0,MI
+115,115,Kusal Perera,WK-Batsman,UNSOLD,50.0,0,
+116,116,Alex Carey,WK-Batsman,UNSOLD,150.0,0,
+117,117,Glenn Phillips,WK-Batsman,UNSOLD,50.0,0,
+118,118,Dawid Malan,Batsman,SOLD,150.0,150.0,PBKS
+119,119,Chris Morris,Bowling Allrounder,SOLD,75.0,1625.0,RR
+120,120,Shivam Dube,Bowling Allrounder,SOLD,50.0,440.00000000000006,RR
+121,121,Moeen Ali,Batting Allrounder,SOLD,200.0,700.0,CSK
+122,122,Shakib Al Hasan,Batting Allrounder,SOLD,200.0,320.0,KKR
+123,123,Glenn Maxwell,Batting Allrounder,SOLD,200.0,1425.0,RCB
+124,124,Aaron Finch,Batsman,UNSOLD,100.0,0,
+125,125,Evin Lewis,Batsman,UNSOLD,100.0,0,
+126,126,Steven Smith,Batsman,SOLD,200.0,220.00000000000003,DC
+127,127,Jason Roy,Batsman,UNSOLD,200.0,0,
+128,128,Alex Hales,Batsman,UNSOLD,150.0,0,
